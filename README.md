@@ -10,6 +10,7 @@ Os integrantes do grupo são:
 - João Henrique Gomes de Souza Alberto
 - Josué Ribeiro Lenhardt
 - Oto Pereira Bonfim
+- Rodrigo Alves de Carvalho Souza
 - Vitor Emanuel de Moura Soares Quirino
 
 ***
