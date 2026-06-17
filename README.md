@@ -7,6 +7,7 @@ Os integrantes do grupo são:
 - Daniel Costa Alves da Silva
 - Gabriel Mendes Siqueira
 - Guilherme Henrique Pessoa Mota
+- Gustavo Braga Costa
 - Ícaro Scárdua Del Medeiros e Silva
 - João Henrique Gomes de Souza Alberto
 - Josué Ribeiro Lenhardt
