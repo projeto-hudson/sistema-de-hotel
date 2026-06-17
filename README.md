@@ -5,10 +5,12 @@ O seguinte projeto tem por objetivo fazer a entrega de um sistema utilizado por 
 
 Os integrantes do grupo são:
 - Daniel Costa Alves da Silva
+- Gabriel Mendes Siqueira
 - Guilherme Henrique Pessoa Mota
 - Ícaro Scárdua Del Medeiros e Silva
 - João Henrique Gomes de Souza Alberto
 - Josué Ribeiro Lenhardt
+- Luigi Gomes de Oliveira
 - Oto Pereira Bonfim
 - Rodrigo Alves de Carvalho Souza
 - Vitor Emanuel de Moura Soares Quirino
