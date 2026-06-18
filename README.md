@@ -3,6 +3,10 @@ Repositório compartilhado para a entrega de trabalho de sistema de hotel requer
 
 O seguinte projeto tem por objetivo fazer a entrega de um sistema utilizado por um hotel fictício, em que apresenta um módulo de hóspedes, um módulo de quartos, módulo de reservas, financeiro, módulo de serviços e relatório. O grupo se dividiu para criar o sistema que rodasse em terminal no **VS CODE**.
 
+O projeto tem como base de aprendizado a lógica de programação, o desenvolvimento de linguagem, bem como conceitos básicos de variáveis, blocos de programas, funções, manipulação de dados, entre outros.
+
+O projeto não requer banco de dados, nem uma linguagem de front-end, rodando tudo em terminal.
+
 Os integrantes do grupo são:
 - Daniel Costa Alves da Silva
 - Gabriel Mendes Siqueira
@@ -26,3 +30,49 @@ Primieramente tem-se que gerar um arquivo executável. Isso é feito colocando o
 Isso irá gerar um arquivo executável com o nome "hotel". Em seguida execute o comando ```./hotel```
 
 Assim, o programa rodará em seu terminal.
+
+***
+#O que o sistema pode fazer?
+➡️Módulo de Hóspedes
+  ✅Cadastro
+  ✅Busca
+  ✅Alteração
+  ✅Exclusão
+
+  
+➡️Módulo de Quartos
+  ✅Cadastro
+  ✅Listagem
+  ✅Busca
+  ✅Alteração
+  ✅Exclusão
+  ✅Status do quarto
+
+  
+➡️Módulo de Reservas
+  ✅Criar reserva
+  ✅Cancelar reserva
+  ✅Alterar reserva
+  ✅Check-in
+  ✅Check-out
+
+  
+➡️Módulo de Serviços
+  ✅Café da manhã
+  ✅Lavanderia
+  ✅Transporte
+  ✅Restaurante
+
+  
+➡️Financeiro
+  ✅Calcular hospedagem
+  ✅Registrar pagamento
+  ✅Emitir recibo
+
+  
+➡️Relatórios
+  ✅Quartos ocupados
+  ✅Quartos livres
+  ✅Reservas por período
+  ✅Faturamento
+  ✅Serviços mais utilizados
