@@ -32,7 +32,7 @@ Isso irá gerar um arquivo executável com o nome "hotel". Em seguida execute o 
 Assim, o programa rodará em seu terminal.
 
 ***
-#O que o sistema pode fazer?
+##O que o sistema pode fazer?
 
 ➡️Módulo de Hóspedes
 
@@ -114,3 +114,12 @@ Assim, o programa rodará em seu terminal.
     ✅Faturamento
  
     ✅Serviços mais utilizados
+
+***
+##Futuras melhorias e erros encontrados
+
+Devido ao tempo disponível, nosso código ficou com muitos furos. Fizemos uso de IAs para basear nosso código e posteriormente limpar e melhorar o código. Um exemplo é o fato de a IA colocar a opção de ```buscarHospede()``` por meio do ID, nosso grupo encontrou a necessidade e viu que seria melhor a busca ser feita pelo CPF.
+
+Não tivemos sucesso em integrar tudo no ```sistemaPrincipal.c```, pois ao tentar rodar, foi apresentado erro fatal. Ainda não conseguimos identificar a fragilidade.
+
+Futuramente pretendemos melhorar o código, integra-lo a banco de dados, telas e fazer rodar bem o ```sistemaPrincipal.c```!
