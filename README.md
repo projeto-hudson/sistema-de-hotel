@@ -16,6 +16,9 @@ Os integrantes do grupo são:
 - Rodrigo Alves de Carvalho Souza
 - Vitor Emanuel de Moura Soares Quirino
 
+
+Professor orientador: Hudson Neves
+
 ***
 ## Como rodar o programa?
 Primieramente tem-se que gerar um arquivo executável. Isso é feito colocando o código ```gcc (nome do arquivo).c -o hotel```
