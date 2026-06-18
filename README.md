@@ -34,45 +34,77 @@ Assim, o programa rodará em seu terminal.
 ***
 #O que o sistema pode fazer?
 ➡️Módulo de Hóspedes
+
   ✅Cadastro
+
   ✅Busca
+  
   ✅Alteração
+  
   ✅Exclusão
+
 
   
 ➡️Módulo de Quartos
+
   ✅Cadastro
+  
   ✅Listagem
+  
   ✅Busca
+  
   ✅Alteração
+  
   ✅Exclusão
+  
   ✅Status do quarto
+
 
   
 ➡️Módulo de Reservas
+
   ✅Criar reserva
+  
   ✅Cancelar reserva
+  
   ✅Alterar reserva
+  
   ✅Check-in
+  
   ✅Check-out
+
 
   
 ➡️Módulo de Serviços
+  
   ✅Café da manhã
+  
   ✅Lavanderia
+  
   ✅Transporte
+  
   ✅Restaurante
+
 
   
 ➡️Financeiro
+
   ✅Calcular hospedagem
+  
   ✅Registrar pagamento
+  
   ✅Emitir recibo
+
 
   
 ➡️Relatórios
+
   ✅Quartos ocupados
+  
   ✅Quartos livres
+  
   ✅Reservas por período
+  
   ✅Faturamento
+ 
   ✅Serviços mais utilizados
